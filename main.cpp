@@ -1,3 +1,11 @@
+/*
+ * File:  main.cpp
+ * Author: Jaclyn Carey
+ * Date: August 11, 2023
+ * Class: CS-210-X6054
+ * Description: This program reads a list of items from an input file and stores them in a vector. It then displays a menu of options to the user, allowing them to look up an item, print a frequency list, print a histogram, or exit the program. The program also writes the data to a backup file.
+ */
+
 #include <iostream>
 #include <fstream>
 #include <vector>
